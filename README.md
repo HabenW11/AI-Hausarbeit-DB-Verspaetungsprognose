@@ -66,6 +66,6 @@ Das Notebook läuft lokal in **Jupyter Notebook via Anaconda**.
 
 ## Autor
 
-**[Name einfügen]** | Matrikelnummer: [Matrikelnummer einfügen]  
+**Haben Welday** | Matrikelnummer: 820906  
 Hochschule Reutlingen | Modul: Artificial Intelligence  
 Abgabe: 28.06.2026 | Mündliche Prüfung: 03.07.2026
